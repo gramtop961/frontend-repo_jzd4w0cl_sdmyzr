@@ -6,7 +6,7 @@ import FooterCTA from './components/FooterCTA.jsx';
 
 function App() {
   return (
-    <div className="min-h-screen bg-black text-white selection:bg-emerald-400/30 selection:text-emerald-200">
+    <div className="min-h-screen bg-white text-zinc-900 selection:bg-violet-400/30 selection:text-violet-900">
       <Navbar />
       <main>
         <Hero />
